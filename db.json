@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "nome": "Caio",
+      "idade": "20",
+      "cpf": "11122233344",
+      "number": "8388309111",
+      "id": 1
+    },
+    {
+      "nome": "Pedro",
+      "idade": "23",
+      "cpf": "11122233344",
+      "number": "08399998888",
+      "id": 2
+    },
+    {
+      "nome": "Gustavo",
+      "idade": "40",
+      "cpf": "11122233344",
+      "number": "88889999",
+      "id": 3
+    }
+  ],
+  "mensagens": []
+}
